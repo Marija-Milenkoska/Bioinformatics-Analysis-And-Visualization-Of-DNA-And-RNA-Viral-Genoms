@@ -1,0 +1,16 @@
+Virus_name,Genome_type,Strand_type,Genome_length,GC_content,Host,Disease,Family,Accession_number,Target_organ,Symptoms,Transmission,Infection_duration,Treatment,Vaccine
+SARS-CoV-2,RNA,ssRNA(+),29903,38,Human,COVID-19,Coronaviridae,NC_045512,Respiratory system,Fever;Cough;Fatigue;Loss of smell,Airborne,1-3 weeks,Antivirals/supportive care,Yes
+Influenza A virus,RNA,ssRNA(-),13500,44,Human,Flu,Orthomyxoviridae,NC_026435,Respiratory system,Fever;Fatigue;Muscle pain,Airborne,1-2 weeks,Antivirals,Yes
+HIV-1,RNA,ssRNA(+),9700,42,Human,AIDS,Retroviridae,NC_001802,Immune system,Fever;Weight loss;Immune suppression,Blood/sexual contact,Chronic (lifelong),Antiretroviral therapy,None
+Rabies virus,RNA,ssRNA(-),12000,45,Animal,Rabies,Rhabdoviridae,NC_001542,Nervous system,Fever;Neurological symptoms;Paralysis,Animal bite,Weeks to months,Post-exposure vaccination,Yes
+Ebola virus,RNA,ssRNA(-),18959,41,Human,Ebola hemorrhagic fever,Filoviridae,NC_002549,Multiple organs,Fever;Bleeding;Weakness,Body fluids,2-3 weeks,Supportive care,Yes
+Dengue virus,RNA,ssRNA(+),10700,46,Human,Dengue fever,Flaviviridae,NC_001477,Blood/immune system,Fever;Headache;Joint pain,Mosquito bite,1-2 weeks,Supportive care,Yes
+Tobacco mosaic virus,RNA,ssRNA(+),6395,43,Plant,Tobacco mosaic disease,Virgaviridae,NC_001367,Plant leaves,Mosaic leaf pattern;Growth reduction,Plant contact,Persistent in plant,None,None
+Tomato yellow leaf curl virus,DNA,ssDNA,2800,45,Plant,Tomato leaf curl disease,Geminiviridae,NC_004004,Plant leaves,Leaf curling;Yellowing,Whitefly vector,Persistent in plant,None,None
+Cauliflower mosaic virus,DNA,dsDNA,8000,43,Plant,Cauliflower mosaic disease,Caulimoviridae,NC_001497,Plant tissues,Mosaic pattern;Leaf distortion,Aphids,Persistent in plant,None,None
+Human adenovirus C,DNA,dsDNA,36000,55,Human,Respiratory infections,Adenoviridae,NC_001405,Respiratory system,Fever;Sore throat;Cough,Respiratory droplets,1-2 weeks,Supportive care,Yes
+Human papillomavirus 16,DNA,dsDNA,7900,41,Human,Cervical cancer,Papillomaviridae,NC_001526,Skin/epithelium,Warts;Cell changes,Skin contact,Chronic,Symptom treatment,Yes
+Herpes simplex virus 1,DNA,dsDNA,152000,68,Human,Herpes,Herpesviridae,NC_001806,Nervous system/skin,Blisters;Sores,Direct contact,Lifelong latent infection,Antivirals,None
+African swine fever virus,DNA,dsDNA,190000,38,Animal,African swine fever,Asfarviridae,NC_001659,Immune system,Fever;Hemorrhage,Tick or contact,1-2 weeks,None,None
+Canine parvovirus,DNA,ssDNA,5000,47,Animal,Parvovirus infection,Parvoviridae,NC_001539,Intestines,Vomiting;Diarrhea,Contact with feces,1-2 weeks,Supportive care,Yes
+Bacteriophage T4,DNA,dsDNA,169000,35,Bacteria,Bacterial infection,Myoviridae,NC_000866,Bacterial cell,Cell lysis,Infection of bacteria,Hours,None,None
